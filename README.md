@@ -1,127 +1,118 @@
 <div align="center">
 
-# 🤖 Gemini CLI SubAgents Library (3,500+ Experts)
-
-**The ultimate, community-driven collection of specialized, production-ready AI SubAgents for the [Gemini CLI](https://geminicli.com/).**
+# 🤖 The Gemini CLI SubAgents Library
+### ⚡ Unleash a Workforce of 3,500+ Autonomous Experts ⚡
 
 [![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-Ready-blue?style=for-the-badge&logo=google-gemini)](https://geminicli.com)
-[![Agents](https://img.shields.io/badge/Agents-3500%2B-success?style=for-the-badge)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Agents](https://img.shields.io/badge/Total%20Agents-3500%2B-success?style=for-the-badge)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](http://makeapullrequest.com)
 
-Transform your terminal into a powerhouse of autonomous experts. From reverse-engineering malware to orchestrating massive Kubernetes clusters, this repository contains over 3,500 highly specialized subagents ready to execute your commands.
+**Stop using generic AI. Start using hyper-specialized autonomous agents.**
 
-[Explore Agents](#categories) • [How to Install](#installation) • [How to Use](#usage) • [Contribute](#contributing)
-
-</div>
+[Browse Categories](#-categories) • [Instant Install](#-installation) • [Usage Examples](#-usage) • [Contribute](#-contributing)
 
 ---
 
-## 🌟 Why this repository?
+"This is like having a Senior Engineer, a Security Auditor, and a Business Strategist 
+living in your terminal, ready to work 24/7."
 
-The Gemini CLI allows you to delegate tasks to autonomous **SubAgents**. But creating the perfect system prompt, toolset, and model configuration for every edge case takes time.
+---
+</div>
 
-This repository solves that. We have systematically generated and curated over 3,500 unique subagents across 30+ industries and technical domains. 
+## 🚀 The Vision
 
-**Features:**
-- 🎯 **Hyper-Specialized:** No generic "coding assistants." You get a `graphql-federation-architect`, a `zero-trust-network-architect`, an `ethereum-gas-optimizer`, and 3,500 more.
-- 🧠 **Smart Model Selection:** Simple tasks use the lightning-fast `gemini-3-flash`, while complex architectural reasoning defaults to `gemini-3.1-pro`.
-- 🛠️ **Tool-Ready:** Agents come pre-configured with the exact CLI tools they need to read files, grep codebases, and run bash commands.
-- 📁 **Plug & Play:** Drop them into your `.gemini/agents/` folder and start delegating immediately.
+The [Gemini CLI](https://geminicli.com/) is powerful because it can delegate tasks. But a tool is only as good as the expert wielding it. 
+
+The **Gemini SubAgents Library** provides you with that expertise instantly. We've built the world's largest collection of specialized system prompts, precisely tuned for the Gemini ecosystem. Whether you're debugging a race condition in Rust or drafting a multi-regional compliance strategy, there's an agent in here built exactly for that task.
+
+### 💎 Key Pillars
+*   🎯 **Extreme Specialization:** Over 3,500 unique agents. Not just "a coder," but a `graphql-federation-architect`.
+*   🧠 **Hybrid Intelligence:** Automatically routes to `gemini-3-flash` for speed or `gemini-3.1-pro` for deep reasoning.
+*   🔧 **Pre-Configured Toolsets:** Every agent arrives with the specific CLI permissions needed to get the job done.
+*   📂 **Domain Organized:** 40+ folders covering everything from **DevOps** to **Niche Hobbies**.
 
 ---
 
 ## 🗂️ Categories
 
-Our agents are organized into domain-specific folders:
+Explore our massive directory of experts:
 
-| Tech & Engineering | Data & AI | Business & Ops | Verticals & Niche |
-| :--- | :--- | :--- | :--- |
-| 💻 **[Code](./.gemini/agents/code)** (250+) | 🤖 **[AI / ML](./.gemini/agents/ai_ml)** (100+) | 📈 **[Business](./.gemini/agents/business)** (100+) | 🏥 **[Healthcare](./.gemini/agents/healthcare)** (100+) |
-| 🏗️ **[Architecture](./.gemini/agents/architecture)** (100+) | 📊 **[Analytics](./.gemini/agents/analytics)** (100+) | ⚙️ **[Operations](./.gemini/agents/operations)** (100+) | 💰 **[Finance](./.gemini/agents/finance)** (100+) |
-| ☁️ **[DevOps](./.gemini/agents/devops)** (100+) | 💾 **[Data](./.gemini/agents/data)** (140+) | 🎨 **[Design](./.gemini/agents/design)** (100+) | 🛒 **[E-commerce](./.gemini/agents/ecommerce)** (100+) |
-| 🛡️ **[Security](./.gemini/agents/security)** (100+) | 🔬 **[Research](./.gemini/agents/research)** (100+) | 📢 **[Marketing](./.gemini/agents/marketing)** (100+) | 🎲 **[Gaming](./.gemini/agents/gaming)** (100+) |
-| 🔄 **[Automation](./.gemini/agents/automation)** (100+) | 🔗 **[Integration](./.gemini/agents/integration)** (100+) | ✍️ **[Writing](./.gemini/agents/writing)** (110+) | 🎸 **[Niche Hobbies](./.gemini/agents/niche)** (200+) |
+### 🛠️ Technical & Engineering
+- **[Code](./.gemini/agents/code):** Framework masters, language experts, and refactoring specialists.
+- **[Architecture](./.gemini/agents/architecture):** System designers for microservices, EDA, and cloud-native.
+- **[DevOps](./.gemini/agents/devops):** IaC experts, CI/CD architects, and reliability engineers.
+- **[Security](./.gemini/agents/security):** Red-teamers, AppSec auditors, and compliance specialists.
+- **[Automation](./.gemini/agents/automation):** RPA, workflow engineers, and script masters.
 
-*(And many more including Legal, Travel, Real Estate, Automotive, Web, Mobile...)*
+### 📊 Data & Analysis
+- **[AI / ML](./.gemini/agents/ai_ml):** LLM fine-tuners, NLP experts, and MLOps leads.
+- **[Analytics](./.gemini/agents/analytics):** GA4 pros, churn predictors, and visualization masters.
+- **[Data](./.gemini/agents/data):** Warehouse architects, streaming engineers, and ETL experts.
+- **[Research](./.gemini/agents/research):** Market analysts, academic researchers, and deep-divers.
+
+### 💼 Business & Operations
+- **[Business](./.gemini/agents/business):** Startup strategists, RevOps architects, and M&A leads.
+- **[Operations](./.gemini/agents/operations):** Efficiency auditors, onboarding leads, and project PMOs.
+- **[Design](./.gemini/agents/design):** UI/UX architects, motion specialists, and design system leads.
+- **[Writing](./.gemini/agents/writing):** API technical writers, grant specialists, and SEO gurus.
+
+### 🌍 Verticals & Specialized
+- **Healthcare, Finance, E-commerce, Gaming, IoT, Legal, Real Estate, and [200+ Niche Hobbies](./.gemini/agents/niche).**
 
 ---
 
-## 🚀 Installation
+## 💾 Installation
 
-### Option 1: Quick Install (Recommended)
-Simply clone this repository directly into your Gemini CLI configuration folder:
+Get the entire library in seconds.
 
+### **Linux / macOS**
 ```bash
-# Navigate to your Gemini CLI config directory
-cd ~/.gemini
-
-# Clone the repository (it will merge with your existing agents folder)
-git clone https://github.com/YOUR_USERNAME/gemini-subagents-library.git temp-agents
-cp -r temp-agents/.gemini/agents/* ./agents/
-rm -rf temp-agents
+curl -sSL https://raw.githubusercontent.com/Teeflo/gemini-subagents-library/master/install.sh | bash
 ```
 
-### Option 2: Manual Cherry-Picking
-If you only want specific agents (e.g., just the DevOps and Security ones):
-1. Browse the folders in this repo.
-2. Download the specific `.md` files you want.
-3. Place them in your `~/.gemini/agents/` directory (or `.gemini/agents/` in your local project workspace).
+### **Windows (PowerShell)**
+```powershell
+iwr https://raw.githubusercontent.com/Teeflo/gemini-subagents-library/master/install.ps1 -useb | iex
+```
+
+> **Note:** Use the `--global` flag to install into your home directory, otherwise it installs into your current project folder.
 
 ---
 
 ## 🎮 Usage
 
-Once installed, the Gemini CLI will automatically detect your new workforce. 
+Once installed, the experts are live.
 
-You can interact with them directly from your terminal or pass tasks to them via the main Gemini CLI agent.
-
-**Example 1: Direct Invocation**
+### 1. Direct Invocation
+Need a specific task done? Call the expert directly:
 ```bash
-gemini --agent=aws-systems-manager-automator "Write an SSM document to update all our Ubuntu instances"
+gemini --agent=terraform-automation-architect "Create a modular setup for a multi-region EKS cluster"
 ```
 
-**Example 2: Delegation (from the main agent)**
-Just ask Gemini CLI to do something complex, and it will automatically find the right expert:
-> *"I need to optimize my Webpack build, it's taking too long. Can you get the frontend-architecture-lead to look at my `webpack.config.js`?"*
-
----
-
-## 🛠️ Anatomy of a SubAgent
-
-Every agent in this repository is built using the official Gemini CLI format. Here is an example of `kubernetes-cost-optimizer.md`:
-
-```yaml
----
-name: kubernetes-cost-optimizer
-description: Focus on optimizing K8s resource requests, limits, and autoscaling.
-model: gemini-3-flash
-tools: [run_shell_command, read_file, grep_search, glob]
-temperature: 0.7
-max_turns: 10
----
-You are a K8s cost expert. Analyze cluster usage and tune autoscaling and resource allocation to reduce waste and improve stability.
-```
+### 2. Intelligent Delegation
+The beauty of the Gemini CLI is that the **main agent can delegate**. Just describe your problem:
+> *"My mobile app is lagging on Android. Can you get the `android-performance-optimizer` to audit my rendering logic?"*
 
 ---
 
 ## 🤝 Contributing
 
-With 3,500+ agents, this library is massive, but technology moves fast! We welcome contributions. 
+We are building the definitive workforce for the AI era. 
 
-**How to contribute:**
-1. Fork the repository.
-2. Create a new `.md` file in the appropriate category folder.
-3. Ensure it follows the [official subagent YAML frontmatter format](https://geminicli.com/docs/core/subagents/).
-4. Submit a Pull Request!
+1. **Fork** the repository.
+2. **Add** your expert under the right folder (follow the YAML format).
+3. **Commit** with a clear description of the new expert's value.
+4. **Submit** a PR.
 
-**Tips for a great agent:**
-- Be incredibly specific in the `prompt`. (e.g., "You are an expert in Next.js 14 App Router" instead of "You are a web developer").
-- Assign the `gemini-3.1-pro` model for agents that need to write complex code or reason deeply. Use `gemini-3-flash` for data extraction, fast formatting, or simple scripts.
+**Standard for New Agents:**
+- **Name:** kebab-case-slug.md
+- **Model:** Use `gemini-3-flash` by default. Only use `gemini-3.1-pro` for roles requiring deep logic.
+- **Prompt:** Be precise. Start with "You are a [Specialty] expert..."
 
 ---
 
 <div align="center">
-  <p>Built with ❤️ by the Gemini CLI Community.</p>
-  <p><i>Unleash your AI workforce.</i></p>
+  <p><b>Join the Revolution of Autonomous Terminal Computing.</b></p>
+  <p>Built with ❤️ by Teeflo & the Gemini CLI Community.</p>
 </div>
