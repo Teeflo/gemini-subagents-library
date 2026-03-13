@@ -1,3 +1,13 @@
+<p align="center">
+  <h1 align="center">Gemini SubAgent Optimizer</h1>
+</p>
+
+<p align="center">
+  <strong>Framework d'optimisation et de gestion de sous-agents pour Gemini CLI. Automatisez l'installation, la mise à jour et la performance de vos agents IA spécialisés pour un workflow de développement ultra-rapide.</strong>
+</p>
+
+---
+
 <div align="center">
 
 # 🤖 The Gemini CLI SubAgents Library
