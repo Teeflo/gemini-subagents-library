@@ -1,0 +1,16 @@
+# Gemini CLI Temporary and Optimization Files
+.gemini_optimization_cache.json
+optimization.log
+optimize_subagents.py
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+env/
+venv/
+build/
+dist/
+*.egg-info/
